@@ -8,4 +8,3 @@ if (number < 100)
     Console.WriteLine("Это не трёхзначное число!!!");
 else 
     Console.WriteLine(number / 10 % 10);
-//Фигурные скобки ставить НЕ обязательно!))
